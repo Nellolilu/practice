@@ -2,5 +2,6 @@ Name: Ironhacker
 Age: 25
 Favorite Color: Yellow
 
-what: Textchanges 14:30 
-what: More changes
+what0: "Textchanges 14:30" 
+what1: "More changes"
+what2: "stringed"
